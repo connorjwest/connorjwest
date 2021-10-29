@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @connorjwest
-- 👀 I’m interested in geospatial analytics and meteorology
-- 🌱 I’m currently learning ArcPy
-- 💞️ I’m looking to collaborate on geospatial projects
+GIS Analyst focusing on remote sensing and disaster response. Texas A&M '19
 
 
 <!---
